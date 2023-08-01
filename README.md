@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/hitesh_j48" target="blank"><img src="https://img.shields.io/twitter/follow/hitesh_j48?logo=twitter&style=for-the-badge" alt="hitesh_j48" /></a> </p>
 
-- 🌱 I’m currently learning about **Blockchain and Solidity**
+- 🌱 I’m currently learning about **Back-end Development**
 
-- 💬 Ask me about **Blockchain, Solidity, Ethereum, Decentralization and pretty much anything else.**
+- 💬 Ask me about **Python, Golang, APIs, React, Flask and pretty much anything else.**
 
 - 📫 How to reach me **hiteshjainhd@gmail.com**
 
