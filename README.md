@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hitesh</h1>
-<h3 align="center"></h3>
+<h3 align="center">Your friendly neighborhood "pretending not to be a nerd" guy.</h3>
 
 <p align="left"> <a href="https://twitter.com/hitesh_j48" target="blank"><img src="https://img.shields.io/twitter/follow/hitesh_j48?logo=twitter&style=for-the-badge" alt="hitesh_j48" /></a> </p>
 
