@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hiteshjainhd@gmail.com**
 
-- ⚡ Fun fact **I think I can code without a coffee😁😂.**
+- ⚡ Fun fact **I can code without a coffee😁😂.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
